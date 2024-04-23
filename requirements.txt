@@ -1,0 +1,7 @@
+pypdf
+langchain
+rapidocr-onnxruntime
+nltk
+langchain_google_genai
+chromadb
+flask
